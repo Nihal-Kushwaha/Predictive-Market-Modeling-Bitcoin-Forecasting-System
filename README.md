@@ -24,8 +24,10 @@ After training all three models on the exact same dataset and parameters, the re
 ## 📈 Visualizations
 
 ### 1. Model Comparison on Historical Data
-![Historical Comparison](![Uploading image.png…]()
-)
+![Historical Comparison](https://github.com/Nihal-Kushwaha/Predictive-Market-Modeling-Bitcoin-Forecasting-System/blob/main/Historical%20Comparision.png)
 
 ### 2. 7-Day Future Forecast
-![Future Forecast](./future_forecast.png)
+![Future Forecast](https://github.com/Nihal-Kushwaha/Predictive-Market-Modeling-Bitcoin-Forecasting-System/blob/main/Future%20Forecast.png)
+
+
+
